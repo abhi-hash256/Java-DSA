@@ -10,11 +10,5 @@ Java is one of the most popular and widely used programming languages.
 <li>When compared with Python, Java kind of fits between C++ and Python. The programs are written in Java typically run faster than corresponding Python programs and slower than C++. Like C++, Java does static type checking, but Python does not.
 </pre>
 
-<h4>Binary Tree
-<pre>
-A tree is a popular data structure which is non linear in nature. Unlike other data structures like 
-array, stack, queue, and linked list that are linear in nature, a tree represents hierarchical structure. 
-The ordering information of tree is not important. A tree contains nodes and 2 pointers. These two pointers are the 
-left child and the right child of the parent node
-</pre>
+
  
